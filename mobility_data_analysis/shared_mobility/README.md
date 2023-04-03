@@ -21,7 +21,7 @@ Data can be download from https://data.austintexas.gov/Transportation-and-Mobili
 1. Run the `main.py` script to generate the origin-destination matrix and distance charts.
 2. The images will be saved in the 'Results' and 'Distance' folders, respectively.
 
-## Usage
+## Results
 1. Matrix OD by day
 <img src="Resultados/2018-04-05.png" alt="Matrix ID of 2018-04-05">
 
