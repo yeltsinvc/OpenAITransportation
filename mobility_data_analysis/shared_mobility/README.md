@@ -5,7 +5,7 @@ This is a project to bring together the different computational tools used in tr
 ## Requirements
 
 - Python 3.7 or higher
-- The pandas, matplotlib, and seaborn libraries.
+- The pandas, matplotlib.
 
 ## Environment Setup
 
@@ -14,7 +14,7 @@ This is a project to bring together the different computational tools used in tr
 3. Add `Shared_Micromobility_Vehicle_Trips.csv` in data folder
 
 ## Data
-Data can be download from `https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r`
+Data can be download from https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r
 
 ## Usage
 
