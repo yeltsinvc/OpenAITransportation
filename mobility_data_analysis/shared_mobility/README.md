@@ -1,6 +1,6 @@
-# OpenAITransportation
+# Transportation Data Analysis Project
 
-This is a project to bring together the different computational tools used in transportation engineering, particularly in traffic and transportation simulation and mobility data analysis.
+this project aims to analyze transportation data by determining the origin-destination matrix of trips and showcasing relevant statistics to understand mobility patterns.
 
 ## Requirements
 
