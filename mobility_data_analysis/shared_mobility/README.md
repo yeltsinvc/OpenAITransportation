@@ -1,6 +1,6 @@
 # Transportation Data Analysis Project
 
-this project aims to analyze transportation data by determining the origin-destination matrix of trips and showcasing relevant statistics to understand mobility patterns.
+This project aims to analyze transportation data by determining the origin-destination matrix of trips and showcasing relevant statistics to understand mobility patterns.
 
 ## Requirements
 
@@ -10,7 +10,7 @@ this project aims to analyze transportation data by determining the origin-desti
 ## Environment Setup
 
 1. Clone the repository to your local machine: `git clone https://github.com/yeltsinvc/OpenAITransportation`
-2. Navigate to the project directory: `cd openai-transportation/mobility_data_analysis/shared_mobility`
+2. Navigate to the project directory: `cd OpenAITransportation/mobility_data_analysis/shared_mobility`
 3. Add `Shared_Micromobility_Vehicle_Trips.csv` in data folder
 
 ## Data
@@ -20,6 +20,13 @@ Data can be download from https://data.austintexas.gov/Transportation-and-Mobili
 
 1. Run the `main.py` script to generate the origin-destination matrix and distance charts.
 2. The images will be saved in the 'Results' and 'Distance' folders, respectively.
+
+## Usage
+1. Matrix OD by day
+<img src="Resultados/2018-04-05.png" alt="Matrix ID of 2018-04-05">
+
+2. Distance diagram by day
+<img src="Distance/2018-04-05.png" alt="Distance diagram of 2018-04-05">
 
 ## Contributing
 
