@@ -38,7 +38,7 @@ Data can be download from https://data.austintexas.gov/Transportation-and-Mobili
 
 ## Contact
 
-If you have any questions or would like to contribute to this project, please contact us at openaitransportation@gmail.com.
+If you have any questions or would like to contribute to this project, please contact us at ylvaleroc@gmail.com.
 
 ## License
 
