@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VISUM version="12.00" xmlns="http://www.ptvgroup.com/visum/XMLSchema">
+  <Net>
+    <Nodes>
+      <Node id="1" x="0" y="0" />
+      <Node id="2" x="100" y="0" />
+      <Node id="3" x="100" y="100" />
+      <Node id="4" x="0" y="100" />
+    </Nodes>
+    <Links>
+      <Link id="1" fromNode="1" toNode="2" length="100" speed="50" lanes="1" />
+      <Link id="2" fromNode="2" toNode="3" length="100" speed="50" lanes="1" />
+      <Link id="3" fromNode="3" toNode="4" length="100" speed="50" lanes="1" />
+      <Link id="4" fromNode="4" toNode="1" length="100" speed="50" lanes="1" />
+    </Links>
+  </Net>
+</VISUM>
