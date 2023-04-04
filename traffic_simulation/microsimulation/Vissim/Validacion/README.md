@@ -1,6 +1,6 @@
 # Traffic Simulation Project using Vissim
 
-This project aims to simulate vehicular traffic using Vissim with the Interzis Com Python library and calibrate the model using real traffic flow data.
+This project aims to simulate vehicular traffic using Vissim with the Interface Com Python library and calibrate the model using real traffic flow data.
 
 ## Project Structure
 
